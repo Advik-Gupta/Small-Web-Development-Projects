@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <title>API Databse Shows/Anime</title>
+</head>
+
+<body>
+  <div class="header">
+    <h1>The Ultimate Shows and Anime Database</h1>
+    <form id="dbform">
+      <label for="searchBox">Search Shows and Animes</label>
+      <input type="text" name="query" id="searchBox" />
+      <button>Search</button>
+  </div>
+  <p id="para">Titles are links to <a href="https://www.imdb.com/" target="_blank">IMDB</a>. If a show is not found on
+    IMDB the said show is linked from <a href="https://www.tvmaze.com/" target="_blank">TvMaze</a></p>
+  <hr />
+  <div class="showsList">
+
+  </div>
+  <script src="app.js"></script>
+</body>
+
+</html>

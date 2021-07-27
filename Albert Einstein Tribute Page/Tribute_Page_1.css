@@ -1,0 +1,35 @@
+h1 , h2 {
+	text-align: center;
+}
+
+img	{
+	width: 200px;
+	height: 300px
+}
+
+h4	{
+	margin-top: 5px;
+}
+
+h3 , h5	{
+	margin-left: 35px;
+	margin-top: 3px;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+footer h3 {
+	color: purple;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+body {
+	background-color: rgb(182, 223, 240);
+}

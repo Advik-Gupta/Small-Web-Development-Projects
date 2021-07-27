@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Montserrat", sans-serif;
+}
+
+.header {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 100vw;
+	height: 20vh;
+}
+
+label {
+	margin-top: 10px;
+}
+
+#searchBox {
+	margin-top: 4px;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+button {
+	display: block;
+	margin-top: 5px;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.showsList {
+	display: flex;
+	justify-content: space-between;
+	padding: 20px;
+	height: 100%;
+	flex-wrap: wrap;
+}
+
+.show {
+	display: flex;
+	width: 18%;
+	height: auto;
+	border: 3px solid black;
+	padding: 10px;
+	align-items: center;
+	flex-direction: column;
+	margin: 5px;
+	text-align: center;
+}
+
+img {
+	height: 320px;
+}
+
+a {
+	text-decoration: none;
+	cursor: pointer;
+	margin-top: 5px;
+	color: #000;
+	text-decoration: underline;
+	padding: 1.2px;
+	font-size: 20px;
+	text-align: center;
+}
+
+p {
+	margin-top: 4px;
+	text-align: center;
+}
+
+#para {
+	font-size: 15px;
+	margin-top: 3px;
+}
+
+#para a {
+	font-size: inherit;
+	text-decoration: none;
+	font-weight: 700;
+}
