@@ -1,3 +1,1 @@
-These are all my Web Development Projects from when I started learning till now!!!
-
-Including projects I did myself, did from courses/youtube/internet. 
+<h2> These are all the small Web Development Projects from when I started learning till now!!! </h2>
