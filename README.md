@@ -3,5 +3,6 @@
   <li> Simple Parallax Website - https://simple-parallax-website.netlify.app/</li>
   <li> Progress Steps - https://simple-progress-step.netlify.app/</li>
   <li> NatureLand (Tialwind CSS Site) - https://tailwindcss-natureland.netlify.app/</li>
+  <li> Shows and Anime API Website -https://shows-and-anime-api.netlify.app/</li>
   <li> Expanding Cards - https://expanding-cards-simple.netlify.app/</li>
 </ul>
