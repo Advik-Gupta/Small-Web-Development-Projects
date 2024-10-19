@@ -6,4 +6,5 @@
   <li> Shows and Anime API Website -https://shows-and-anime-api.netlify.app/</li>
   <li> Expanding Cards - https://expanding-cards-simple.netlify.app/</li>
   <li> Albert Einstein Tribute Site - https://alberteinstein-tribute.netlify.app/</li>
+  <li> Paralex Website - https://paralex-website.netlify.app/</li>
 </ul>
